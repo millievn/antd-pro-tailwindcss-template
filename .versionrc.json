@@ -1,0 +1,9 @@
+{
+  "rules": ["feat", "fix", "test", "chore"],
+  "types": [
+    { "type": "feat", "section": "Features" },
+    { "type": "fix", "section": "Bug Fixes" },
+    { "type": "chore", "section": "Others" },
+    { "type": "test", "hidden": true }
+  ]
+}
